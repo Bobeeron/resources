@@ -1,0 +1,11 @@
+Model Information:
+* title:	Peugeot J5 Minibus
+* source:	https://sketchfab.com/3d-models/peugeot-j5-minibus-55d72c5dd507464ca2fe26f782f8c04e
+* author:	boitaloran (https://sketchfab.com/boitaloran)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Peugeot J5 Minibus" (https://sketchfab.com/3d-models/peugeot-j5-minibus-55d72c5dd507464ca2fe26f782f8c04e) by boitaloran (https://sketchfab.com/boitaloran) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
